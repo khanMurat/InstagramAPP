@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6B4B9D6E-EECC-4EE1-98C0-9A9950BE6F9B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67ABFE47-3782-4111-8E46-B7E1BF3CF769"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramTutorial/API/CommentService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "fethComments(postID:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "67ABFE47-3782-4111-8E46-B7E1BF3CF769 - d980ce0b99eab840"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static InstagramTutorial.CommentService.fethComments(postID: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;InstagramTutorial.Comment&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InstagramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/murat/Desktop/MySwiftProjects/InstagramApp/InstagramTutorial/InstagramTutorial/API/CommentService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "67ABFE47-3782-4111-8E46-B7E1BF3CF769 - ae4631d8dafc02b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static InstagramTutorial.CommentService.fethComments(postID: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;InstagramTutorial.Comment&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InstagramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/murat/Desktop/MySwiftProjects/InstagramApp/InstagramTutorial/InstagramTutorial/API/CommentService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF01FCF3-7639-4027-9C2A-C9BF1EBC461B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramTutorial/API/CommentService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fethComments(postID:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FF01FCF3-7639-4027-9C2A-C9BF1EBC461B - ae4631d8dafc0279"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static InstagramTutorial.CommentService.fethComments(postID: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;InstagramTutorial.Comment&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InstagramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/murat/Desktop/MySwiftProjects/InstagramApp/InstagramTutorial/InstagramTutorial/API/CommentService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "FF01FCF3-7639-4027-9C2A-C9BF1EBC461B - 8ad4387eb639ce64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDocumentChange) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static InstagramTutorial.CommentService.fethComments(postID: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;InstagramTutorial.Comment&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InstagramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/murat/Desktop/MySwiftProjects/InstagramApp/InstagramTutorial/InstagramTutorial/API/CommentService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "934486B7-F387-4728-B0AC-DAE6B03F249C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramTutorial/API/CommentService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fethComments(postID:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "934486B7-F387-4728-B0AC-DAE6B03F249C - ae4631d8dafc0279"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static InstagramTutorial.CommentService.fethComments(postID: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;InstagramTutorial.Comment&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InstagramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/murat/Desktop/MySwiftProjects/InstagramApp/InstagramTutorial/InstagramTutorial/API/CommentService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "934486B7-F387-4728-B0AC-DAE6B03F249C - 8ad4387eb639ce64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDocumentChange) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static InstagramTutorial.CommentService.fethComments(postID: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;InstagramTutorial.Comment&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InstagramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/murat/Desktop/MySwiftProjects/InstagramApp/InstagramTutorial/InstagramTutorial/API/CommentService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E45B7607-889C-4271-AA77-C8B295470204"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramTutorial/API/CommentService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fethComments(postID:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9A364AF-42F2-4F8B-BFC2-831158810EA7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramTutorial/API/CommentService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fethComments(postID:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70C3B4AE-4852-4119-A814-7824C9191E24"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramTutorial/API/CommentService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "fethComments(postID:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "244B78DB-7FE2-457C-8663-F49C72CE85CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramTutorial/API/CommentService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fethComments(postID:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7E1C288-924F-4396-9C02-53BE5FA1949E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramTutorial/API/CommentService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fethComments(postID:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA2DC085-2663-44EA-B8B1-7954A3BCFEF7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramTutorial/API/CommentService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "fethComments(postID:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B63D547C-8BEE-478D-8C8E-450196233027"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramTutorial/API/CommentService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "fethComments(postID:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD78DA8A-A17E-4E53-A040-582FD3A206FC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramTutorial/API/CommentService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "fethComments(postID:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2F2CEAA-0DD8-4002-96EE-670FDDED1887"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramTutorial/API/CommentService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "fethComments(postID:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C2F2CEAA-0DD8-4002-96EE-670FDDED1887 - 8ad4387eb639f11c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDocumentChange) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static InstagramTutorial.CommentService.fethComments(postID: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;InstagramTutorial.Comment&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InstagramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/murat/Desktop/MySwiftProjects/InstagramApp/InstagramTutorial/InstagramTutorial/API/CommentService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "576">
+               </Location>
+               <Location
+                  uuid = "C2F2CEAA-0DD8-4002-96EE-670FDDED1887 - 4520fb8471f499b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (InstagramTutorial.Comment, InstagramTutorial.Comment) -&gt; Swift.Bool in closure #1 (__C.FIRDocumentChange) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static InstagramTutorial.CommentService.fethComments(postID: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;InstagramTutorial.Comment&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InstagramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/murat/Desktop/MySwiftProjects/InstagramApp/InstagramTutorial/InstagramTutorial/API/CommentService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABFB7770-C87D-48AA-BF34-6C12BBE00509"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramTutorial/API/CommentService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "fethComments(postID:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ABFB7770-C87D-48AA-BF34-6C12BBE00509 - 8ad4387eb639f11c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDocumentChange) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static InstagramTutorial.CommentService.fethComments(postID: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;InstagramTutorial.Comment&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InstagramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/murat/Desktop/MySwiftProjects/InstagramApp/InstagramTutorial/InstagramTutorial/API/CommentService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "576">
+               </Location>
+               <Location
+                  uuid = "ABFB7770-C87D-48AA-BF34-6C12BBE00509 - 4520fb8471f499b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (InstagramTutorial.Comment, InstagramTutorial.Comment) -&gt; Swift.Bool in closure #1 (__C.FIRDocumentChange) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static InstagramTutorial.CommentService.fethComments(postID: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;InstagramTutorial.Comment&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "InstagramTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/murat/Desktop/MySwiftProjects/InstagramApp/InstagramTutorial/InstagramTutorial/API/CommentService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "697E7197-BAE8-40F8-B0BE-47749C76C7CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramTutorial/API/CommentService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "fethComments(postID:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "199E444D-ED8A-4D0B-94DE-A23AE7CE2486"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramTutorial/API/CommentService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "fethComments(postID:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
