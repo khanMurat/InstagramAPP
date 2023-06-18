@@ -32,7 +32,6 @@ Display timestamp on posts and notifications
 
 Logging in and logging out 
 
-[Uploading Ekran Resmi 2023-06-18 21.21.46.png…]()
 
 
 
