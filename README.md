@@ -33,8 +33,8 @@ Display timestamp on posts and notifications
 Logging in and logging out 
 
 [Uploading Ekran Resmi 2023-06-18 21.21.46.png…]()
-![Uploading Ekran Resmi 2023-06-18 21.22.30.png…]()
-<img width="362" alt="Ekran Resmi 2023-06-18 21 22 59" src="https://github.com/khanMurat/InstagramApp/assets/102156383/029083d0-5c13-4341-b3aa-1a2ab9bcf2ef">
+
+
 
 
 
