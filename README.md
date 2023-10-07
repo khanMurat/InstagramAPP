@@ -33,7 +33,8 @@ Display timestamp on posts and notifications
 Logging in and logging out 
 
 
-
+LOGIN AND REGISTER:
+![InstagramApp](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnA5MDkxYnJyZGJrZmFhb2M1cDdsNmZuYjduN3o4NTdjbW14cngyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3xDjQRv1w6VxOWfVAL/giphy.gif)
 
 
 
